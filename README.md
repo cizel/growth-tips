@@ -6,6 +6,6 @@
 
 ## 知识思维导图
 
-<img src="./images/growth-tips-1.0.0.png" align="center" />
+<img src="./images/growth-tips-1.0.1.png" align="center" />
 
 ## 目录
