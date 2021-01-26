@@ -30,9 +30,8 @@
 
 ```bash
 #
-cd ~
-mkdir .dotfiles
-cd .dotfiles && git init
+mkdir ~/.dotfiles
+cd ~/.dotfiles && git init
 ```
 
 2. 移动相关的点文件到目录中
@@ -48,8 +47,11 @@ mv ~/.gitignore ~/.dotfiles/
 3. 使用脚本重新 ln 到根目录
 
 ```
+cd ~/.dotfiles
+mkdir script && cd script
 wget https://raw.githubusercontent.com/cizel/dotfiles/master/script/bootstrap.sh
-sh bootstrap.sh
+cd ..
+sh script/bootstrap.sh
 ```
 
 4. 使用 github 同步配置
