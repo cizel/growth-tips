@@ -12,6 +12,18 @@
 
 ## Dotfiles 个人配置管理最佳方案
 
+### Dotfiles 就是配置文件集合
+
+我们在 linux, mac 开发的时候，在初始化环境的时候需要很多配置，例如：
+
+- `zsh`
+- `zsh-plugins` 
+- `vim`
+- `git`
+-`tmux`
+- `alacritty`
+- `.i3`
+
 ### Dotfiles 通过 git 管理更高效 
 
 1. 在根目录下创建 .dotfiles 目录
@@ -48,17 +60,6 @@ git add .
 git push -u origin master
 ```
 
-### Dotfiles 就是配置文件集合
-
-我们在 linux, mac 开发的时候，在初始化环境的时候需要很多配置，例如：
-
-- `zsh`
-- `zsh-plugins` 
-- `vim`
-- `git`
--`tmux`
-- `alacritty`
-- `.i3`
 
 ## Dotfiles 常用配置推荐
 
@@ -261,7 +262,6 @@ main() {
 init
 main
 ```
-
 
 ## 相关链接 
 
