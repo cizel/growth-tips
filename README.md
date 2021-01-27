@@ -18,8 +18,21 @@
 
 ## 目录
 
+### 编程工具
+
 **编程工具 - Shell**
 
 - [Shell: Shell脚本常用语法手册](./programming-tools/shell/script-basic-manual.md)
 - [Shell: 使用dotfiles 来管理你的配置文件](./programming-tools/shell/dotfiles.md)
+
+**编程工具 - IDE**
+
+### 编程语言
+
+**编程语言 - PHP** 
+
+- [PHP性能优化技巧](./programming-languages/php/php-performance-optimization.md)
+
+**编程语言 - Java**
+
 
