@@ -31,8 +31,8 @@
 
 **编程语言 - PHP** 
 
-- [符合 PSR2 的 PHP 编码规范](./programming-languages/php/php-code-standard.md)
-- [PHP性能优化技巧](./programming-languages/php/php-performance-optimization.md)
+- [PHP: 符合 PSR2 的 PHP 编码规范](./programming-languages/php/php-code-standard.md)
+- [PHP: PHP性能优化建议](./programming-languages/php/php-performance-optimization.md)
 
 **编程语言 - Java**
 
