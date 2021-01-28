@@ -20,20 +20,20 @@
 
 ### 编程工具
 
-**编程工具 - Shell**
+**- 编程工具 - Shell**
 
 - [Shell: Shell 脚本常用语法手册](./programming-tools/shell/script-basic-manual.md)
 - [Shell: 使用 dotfiles 来管理你的配置文件](./programming-tools/shell/dotfiles.md)
 
-**编程工具 - IDE**
+**- 编程工具 - IDE**
 
 ### 编程语言
 
-**编程语言 - PHP** 
+**- 编程语言 - PHP** 
 
 - [PHP: 符合 PSR2 的 PHP 编码规范](./programming-languages/php/php-code-standard.md)
 - [PHP: PHP 性能优化建议](./programming-languages/php/php-performance-optimization.md)
 
-**编程语言 - Java**
+**- 编程语言 - Java**
 
 
