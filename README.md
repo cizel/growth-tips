@@ -23,7 +23,7 @@
 **- 编程工具 - Shell**
 
 - [Shell: Shell 脚本常用语法手册](./programming-tools/shell/script-basic-manual.md)
-- [Shell: 使用 dotfiles 来管理你的配置文件](./programming-tools/shell/dotfiles.md)
+- [Shell: 使用 Git 仓库来管理你的 dotfiles 配置](./programming-tools/shell/dotfiles.md)
 
 **- 编程工具 - IDE**
 
